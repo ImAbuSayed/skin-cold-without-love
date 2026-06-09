@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-cold-without-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Skin Cold Without Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-cold-without-love/) |
+| **Get License** | [Obtain a Music License for Skin Cold Without Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-cold-without-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2887)
 
 ---
 

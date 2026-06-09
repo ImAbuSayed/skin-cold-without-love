@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-cold-without-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Skin Cold Without Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-cold-without-love/) |
+| **Get License** | [Official Music Licensing for Skin Cold Without Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-cold-without-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc92e3c502e6f01cc6583bfd351b83bf0cb129e092c4810183e3c205a5042ae0` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
